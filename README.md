@@ -10,3 +10,4 @@
 ## Programs Covered
 - Hello World
 - Variables and String Methods
+- Arrays
