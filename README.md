@@ -6,3 +6,7 @@
 ## References -
 - Java: The Complete Reference Paperback – by Herbert Schildt, Dr. Coward, Danny
 - https://www.youtube.com/watch?v=eIrMbAQSU34
+
+#Programs Covered
+- Hello World
+- Variables and String Methods
